@@ -29,6 +29,7 @@ This is a full-stack blog application built using Node.js, Express.js, EJS, and 
 
 ```bash
 git clone https://github.com/DenizzALP/blog-app-learning-project.git
+```
 
 ### Configuration
 Create a .env file and add your MongoDB URI and any secrets:
